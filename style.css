@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    color: brown;
+}
+h2{
+    text-align: center;
+    color: darkgray;
+}
+p{
+    text-align: justify;
+    font-size: 35px;
+    margin: 0 0 10px;
+    line-height: 1.5em;
+    text-indent: 80px;
+    font-family: Cambria, "Hoefler Text", Utopia, "Liberation Serif", "Nimbus Roman No9 L Regular", Times, "Times New Roman", serif;
+
+}
+.container {
+    margin-left: 200px;
+    margin-right: 200px;
+
+}
+body{
+    background-color: snow;
+}
