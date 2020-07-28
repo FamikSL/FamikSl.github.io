@@ -44,7 +44,7 @@ body{
     width: 100%;
     display: block;
 }
-.link-container ol li{
+.link-container li{
     text-decoration: none;
     font-size: 22px;
     font-family: ALSArtemiusSans,Helvetica,sans-serif;
