@@ -1,0 +1,75 @@
+.book-title{
+    text-align: center;
+    color: brown;
+}
+h1{
+    text-align: center;
+    font-family: ALSArtemiusSans,Helvetica,sans-serif;
+    font-size: 32px;
+}
+h2{
+    text-align: center;
+    color: darkgray;
+    font-size: 26px;
+}
+p {
+    margin-top: 4px;
+    margin-bottom: 8px;
+    font-size: 21px;
+    font-family: Cambria, "Hoefler Text", Utopia, "Liberation Serif", "Nimbus Roman No9 L Regular", Times, "Times New Roman", serif;
+}
+.chapters p{
+    text-align: justify;
+    font-size: 35px;
+    margin: 0 0 10px;
+    line-height: 1.5em;
+    text-indent: 80px;
+    font-family: Cambria, "Hoefler Text", Utopia, "Liberation Serif", "Nimbus Roman No9 L Regular", Times, "Times New Roman", serif;
+
+}
+.container {
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 60px;
+}
+body{
+    background-color: snow;
+}
+.greeting h1 {
+    color: chocolate;
+}
+.header-links ul li{
+    display: inline-block;
+    font-size: 22px;
+    font-family: ALSArtemiusSans,Helvetica,sans-serif;
+    text-decoration: none;
+}
+.header-links ul li a{
+    text-decoration: none;
+}
+.fix-header{
+    position: fixed;
+    top: 0%;
+    background: snow;
+    margin-left: 200px;
+    margin-right: 200px;
+    width: 100%;
+    display: block;
+
+}
+.link-container li{
+    text-decoration: none;
+    font-size: 22px;
+    font-family: ALSArtemiusSans,Helvetica,sans-serif;
+}
+.link-container ol li a{
+    text-decoration: none;
+}
+.header-links ul {
+    margin: 0;
+    padding: 0;
+
+}
+.par-image{
+    text-align: center;
+}
