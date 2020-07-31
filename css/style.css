@@ -6,6 +6,7 @@ h1{
     text-align: center;
     font-family: ALSArtemiusSans,Helvetica,sans-serif;
     font-size: 32px;
+    margin-bottom: 45px;
 }
 h2{
     text-align: center;
@@ -13,7 +14,7 @@ h2{
     font-size: 26px;
 }
 p {
-    margin-top: 4px;
+    margin-top: 12px;
     margin-bottom: 8px;
     font-size: 21px;
     font-family: Cambria, "Hoefler Text", Utopia, "Liberation Serif", "Nimbus Roman No9 L Regular", Times, "Times New Roman", serif;
@@ -72,4 +73,38 @@ body{
 }
 .par-image{
     text-align: center;
+}
+table{
+    width: 100%;
+    border-collapse:collapse;
+    border-spacing:0;
+    table-layout: fixed;
+    margin-top: 25px;
+}
+table, td, th {
+    border: 1px solid #595959;
+    font-family: Pompadur, 'Comic Sans MS', cursive;
+}
+td, th {
+    padding: 3px;
+    width: 30px;
+    height: 35px;
+    font-size: 20px;
+}
+th {
+    background-color: #7accee;
+}
+.td-case{
+    width:0.2%;
+}
+.td-case2{
+    width: 1.5%;
+}
+.same-case-writing{
+    display: inline;
+    color: cornflowerblue;
+}
+.same-case-writing2{
+    display: inline;
+    color: #dc143c;
 }
